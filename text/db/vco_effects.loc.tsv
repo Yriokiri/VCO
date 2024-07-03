@@ -1,0 +1,160 @@
+key	text	tooltip
+#Loc;1;text/db/vco_effects.loc		
+effects_description_vco_all_campaign_victory_dummy	Campaign Victory	true
+effects_description_vco_all_movement_range_post_raze_port	Campaign movement range: %+n% after razing a port settlement	true
+effects_description_vco_brt_alb_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_brt_alberic_vow_melee_attack	Melee attack: %+n for Alberic de Bordeleaux	true
+effects_description_vco_brt_alberic_vow_melee_damage	Weapon strength: %+n for Alberic de Bordeleaux	true
+effects_description_vco_brt_alberic_vow_melee_damage_ap	Armour-piercing weapon damage: %+n for Alberic de Bordeleaux	true
+effects_description_vco_brt_alberic_vow_resistance_physical	Physical resistance: %n% for Alberic de Bordeleaux	true
+effects_description_vco_chs_arc_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_cst_zombie_deckhands_missile_strength	Missile strength: %+n% for Zombie Deckhand units	true
+effects_description_vco_cth_miao_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_cth_zhao_compass_upgraded	Enables [[col:yellow]]Burning Alignment[[/col]] for Wu Xing War Compass units	true
+effects_description_vco_def_morathi_missile_resistance	Missile resistance: %+n% for Morathi	true
+effects_description_vco_def_morathi_slaanesh_unlock_dummy	Unlocks new Slaanesh units: Fiends and Keepers of Secrets	true
+effects_description_vco_def_morathi_ward_save	Ward save: %+n% for Morathi	true
+effects_description_vco_dwf_gro_dilemma_elves	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_dwf_grombrindal_allegiance_points_mod_wef_hef	Allegiance points gained: %+n% for alliances with High Elves and Wood Elves	true
+effects_description_vco_dwf_per_turn_oathgold_gain	Oathgold generated: %n per turn	true
+effects_description_vco_grn_black_orcs_frostbite	Enables frostbite attacks for Black Orcs	true
+effects_description_vco_grn_per_turn_salvage_gain	Scrap: %+n per turn	true
+effects_description_vco_grn_per_turn_waaagh	Reputation: %+n per turn	true
+effects_description_vco_hef_tyr_dummy_wef_forcible_vassalisation	Most Wood Elf factions are forcibly vassalised	true
+effects_description_vco_hef_tyrion_allegiance_points_mod_wood_elves	Allegiance points gained: %+n% for alliances with Wood Elves	true
+effects_description_vco_ksl_drunk_tzars	Enables Liquid Fortification for Tzar Guard units	true
+effects_description_vco_ksl_kat_dilemma_call_for_aid	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_ksl_kat_dilemma_call_for_aid_unlock_artillery	Unlocks new Empire units: Mortars and Great Cannons	true
+effects_description_vco_ksl_kat_dilemma_call_for_aid_unlock_slayers	Unlocks new Dwarf units: Slayers and Giant Slayers	true
+effects_description_vco_ksl_tgo_luminark_unlock_dummy	Unlocks new unit: Orthodoxy Flagellants	true
+effects_description_vco_nor_wul_enable_rampage_ability	Ability: "Hunter of Champions" for Wulfrik the Wanderer	true
+effects_description_vco_nor_wul_marauder_melee_poison	Enables poison attacks for all Marauder infantry units	true
+effects_description_vco_nor_wul_marauder_spear_hunter_bonus_large	Bonus vs Large: %+n for Marauder Spearmen and Hunters	true
+effects_description_vco_nor_wul_marauder_spear_hunter_primal_instincts	Passive ability: "Primal Instincts" for Marauder Spearmen and Hunters	true
+effects_description_vco_nor_wul_movement_range_post_raze_port	Campaign movement range: %+n% after razing a port settlement	true
+effects_description_vco_nor_wul_units_unlock_dummy	Unlocks new Daemonic units after pledging to a Chaos God	true
+effects_description_vco_ogr_greasus_armour	Armour: %+n for Greasus Goldtooth	true
+effects_description_vco_ogr_greasus_charge_bonus	Charge Bonus: %+n for Greasus Goldtooth	true
+effects_description_vco_ogr_greasus_speed	Speed: %+n% for Greasus Goldtooth	true
+effects_description_vco_ogr_greasus_ward_save	Ward save: %+n% for Greasus Goldtooth	true
+effects_description_vco_skv_clan_moulder_strength	Weapon strength: %+n% for all Clan Moulder units	true
+effects_description_vco_skv_clans_impressed	News of the swift Cathayan demise has reached the Clans, and try as they might they cannot hide how impressed they are!	true
+effects_description_vco_skv_food	Food generated: %n	true
+effects_description_vco_skv_melee_attack_vs_vampires	Melee Attack: %+n against Vampires	true
+effects_description_vco_skv_melee_defence_vs_vampires	Melee Defence: %+n against Vampires	true
+effects_description_vco_skv_per_turn_growth_vat	Growth Juice: %+n per turn	true
+effects_description_vco_skv_per_turn_mutagen	Mutagen: %+n per turn	true
+effects_description_vco_skv_snikch_melee_damage_ap	Armour-piercing weapon damage: %+n for Deathmaster Snikch	true
+effects_description_vco_skv_ultimate_harvest_dilemma_dummy_text	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_sla_devotees	Devotees: %+n per turn	true
+effects_description_vco_sla_nkari_weapon_strength	Weapon strength: %+n% for N'Kari	true
+effects_description_vco_tmb_arkhan_allegiance_points_mod_vampire_coast	Allegiance points gained: %+n% for alliances with Vampire Coast	true
+effects_description_vco_vmp_kem_melee_defence	Melee defence: %+n for Heinrich Kemmler	true
+effects_description_vco_vmp_kem_missile_resistance	Missile resistance: %+n% for Heinrich Kemmler	true
+effects_description_vco_vmp_man_dilemma_soulgate	A portal to Sylvania will become available to Mannfred's army.	true
+effects_description_vco_vmp_man_ward_save	Ward save: %+n% for Mannfred von Carstein	true
+effects_description_vco_vmp_man_weapon_strength	Weapon strength: %+n% for Mannfred von Carstein	true
+effects_description_vco_chs_aza_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chs_fes_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chs_vil_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chs_val_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_vmp_hel_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_lzd_nak_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_archaon_vilitch_dummy_mind	Archaon the Everslave will become available for recruitment.	true
+effects_description_vco_archaon_vilitch_dummy_body	Archaon the Everslave will become available for recruitment.	true
+effects_description_vco_vil_arch_rampage	Passive ability: "Berserker" for Archaon the Everslave	true
+effects_description_vco_vil_arch_weapon_strength	Weapon strength: %+n% for Archaon the Everslave	true
+effects_description_vco_hef_tyrion_force_vassalisation_wef	All Elven Wood Elf factions will be forcibly vassalised	true
+effects_description_vco_ogr_skr_gorger_armour	Armour: %+n for Gorgers	true
+effects_description_vco_ogr_skr_gorger_speed	Speed: %+n for Gorgers	true
+effects_description_vco_ogr_skr_gorger_missile_resistance	Missile Resistance: %+n for Gorgers	true
+effects_description_vco_hef_imrik_dragon_speed	Speed: %+n for Dragons	true
+effects_description_vco_hef_imrik_flammable_contact	Enables [[col:yellow]]Flammable![[/col]] [[col:green]]attacks for Dragon Princes[[/col]]	true
+effects_description_vco_vil_altars_upgraded	Enables [[col:yellow]]Burning Alignment[[/col]] for Chaos Warshrine of Tzeentch units	true
+effects_description_vco_cst_rotting_units_weapon_strength	Weapon strength: %n% for Rotting Prometheans and Rotting Leviathans	true
+effects_description_vco_cst_cyl_bretonnia_unlock	Unlocks new units: Damned Knights Errant, Damned Knights of the Realm, Damned Questing Knights	true
+effects_description_vco_cst_cyl_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_cylostra_zp_weapon_strength	Weapon Strength: %+n% for Zombie Pirates	true
+effects_description_vco_cylostra_zp_leadership	Leadership: %+n for Zombie Pirates	true
+effects_description_vco_cylostra_zp_charge_bonus	Charge bonus: %+n for Zombie Pirates	true
+effects_description_vco_cylostra_zp_speed	Speed: %+n% for Zombie Pirates	true
+effects_description_vco_cylostra_zp_physical_resistance	Physical resistance: %+n% for Zombie Pirates	true
+effects_description_vco_cylostra_zp_frostbite_attacks	Enables frostbite attacks for Zombie Pirates	true
+effects_description_vco_cylostra_zp_dazed_attacks	Enables "Dazed" contact effect (reduced Speed and Melee Defence) for Zombie Pirates	true
+effects_description_vco_cylostra_zp_vigour_loss_reduction	Vigour loss reduction: %+n% for Zombie Pirates	true
+effects_description_vco_brt_rep_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_repanse_peasant_weapon_strength	Weapon Strength: %+n% for Peasant Mob, Men-at-Arms, and Spearmen-at-Arms units	true
+effects_description_vco_repanse_peasant_physical_resistance	Physical resistance: %+n% for Peasant Mob, Men-at-Arms, and Spearmen-at-Arms units	true
+effects_description_vco_zhatan_black_orcs_dummy	Unlocks new unit: Perfected Black Orcs	true
+effects_description_vco_astragoth_labourer_weapon_strength	Weapon Strength: %+n% for Labourers	true
+effects_description_vco_drazhoath_infernal_guard_weapon_strength	Weapon Strength: %+n% for Infernal Guard and Infernal Ironsworn units	true
+effects_description_vco_chd_ast_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chd_dra_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chd_zha_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_grimgor_ironbound_labourer_recruit_rank	Recruit rank: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_bonus_large	Bonus vs Large: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_leadership	Leadership: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_experience	Unit experience gain: %+n% for Labourers	true
+effects_description_vco_grimgor_ironbound_labourer_melee_attack	Melee attack: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_weapon_strength	Weapon strength: %+n% for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_missile_resistance	Missile resistance: %n% for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_vigour	Vigour loss reduction: %+n% for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_speed	Speed: %+n% for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_melee_defence	Melee defence: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_charge_bonus	Charge bonus: %+n for Orc Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_ward_save	Ward save: %n% for Labourer units	true
+effects_description_vco_grimgor_ironbound_labourer_vanguard	Attribute: Vanguard Deployment for Labourer units	true
+effects_description_vco_emp_vol_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_chs_bel_everchosen_dominated	Archaon and the Godslayer will be forcibly vassalised	true
+effects_description_vco_chs_bel_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_wh3_main_army_abilities_storm_of_fire	Army ability: "Storm of Fire"	true
+effects_description_vco_wh3_main_army_abilities_fozzriks_flensing_discharge	Army ability: "Fozzrik's Flensing Discharge"	true
+effects_description_vco_wh3_main_army_abilities_fozzriks_verdant_burst	Army ability: "Fozzrik's Verdant Burst"	true
+effects_description_vco_bst_mal_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_harbinger_harpies_unbreakable	Attribute: Unbreakable for Harpy units	true
+effects_description_vco_malagor_gor_armour	Armour: %+n for Ungor, Gor and Bestigor units	true
+effects_description_vco_malagor_gor_primal_instincts	Attribute: Primal Instincts for Ungor, Gor and Bestigor units	true
+effects_description_vco_lzd_hex_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_emp_mar_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_skv_tre_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_def_hel_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_ksl_mot_malediction_dummy_1	Mother Ostankya will learn the "Malediction of Ruin" Hex	true
+effects_description_vco_lord_abilities_lustrian_concoction	Ability: "Lustrian Concoction"	true
+effects_description_vco_lord_abilities_cathayan_concoction	Ability: "Cathayan Concoction"	true
+effects_description_vco_skv_sni_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_dwf_ung_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_vmp_vla_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_unit_passive_everqueens_touch	Passive ability: "Touch of the Everqueen" for Alarielle	true
+effects_description_vco_hef_alarialle_ariel_dummy	The Tears of Isha quest battle will begin!	true
+effects_description_vco_mdr_throt_ghoritch_dummy	The Siege of Hell Pit quest battle will begin!	true
+effects_description_vco_skv_mdr_ghoritch_weapon_strength	Weapon strength: %+n% for Ghoritch	true
+effects_description_vco_skv_mdr_ghoritch_missile_resistance	Missile resistance: %n% for Ghoritch	true
+effects_description_vco_skv_ghoritch_paragon_carnage	Passive ability: "Paragon of Carnage" for Ghoritch	true
+effects_description_vco_hef_nag_shadows_missile_strength	Missile strength: %+n% for Shadow Warriors and Shadow-walkers units	true
+effects_description_vco_nor_thr_marauder_melee_frostbite	Enables frostbite attacks for all Marauder infantry units	true
+effects_description_vco_nor_thr_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_nor_thr_troll_weapon_strength	Weapon strength: %+n% for Troll units	true
+effects_description_vco_nor_thr_troll_recruit_rank	Recruit rank: %+n for Troll units	true
+effects_description_vco_nor_thr_troll_speed	Speed: %+n% for Troll units	true
+effects_description_vco_nor_thr_troll_leadership	Leadership: %+n for Troll units	true
+effects_description_vco_nor_thr_troll_physical_resistance	Physical resistance: %+n% for Troll units	true
+effects_description_vco_nor_thr_troll_recruitment_cost	Recruitment cost: %+n% for Troll units	true
+effects_description_vco_nor_thr_troll_charge_bonus	Charge bonus: %+n% for Troll units	true
+effects_description_vco_nor_thr_troll_vigour_loss_reduction	Vigour loss reduction: %+n% for Troll units	true
+effects_description_vco_throgg_thorns_aura	Ability: "Thorn's Aura"	true
+effects_description_vco_dwf_bel_siege_skavenblight_dummy	The Day of Reckoning quest battle will begin!	true
+effects_description_vco_grn_ska_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_grn_ska_squig_weapon_strength	Weapon strength: %+n% for Squig units	true
+effects_description_vco_grn_ska_squig_recruit_rank	Recruit rank: %+n for Squig units	true
+effects_description_vco_grn_ska_squig_speed	Speed: %+n% for Squig units	true
+effects_description_vco_skv_mor_stormvermin_weapon_strength	Weapon strength: %+n% for Stormvermin units	true
+effects_description_vco_lord_passive_withering_idol	Passive ability: "Withering Pulse"	true
+effects_description_vco_skv_mor_dilemma	A dilemma will offer a choice between powerful rewards!	true
+effects_description_vco_emp_karl_storm_chaos_dummy	The Storm of Chaos quest battle will begin!	true
+effects_description_vco_belegar_corruption_skaven_events	Skaven corruption: %+n	true
+effects_description_vco_hef_ala_forest_spirits_replenishment	Casualty replenishment rate: %+n% for Forest Spirit units	true
+effects_description_vco_hef_ala_forest_spirits_recruit_rank	Recruit rank: %+n for Forest Spirit units	true
+effects_description_vco_hef_ala_forest_spirits_weapon_strength	Weapon strength: %+n% for Forest Spirit units	true
+effects_description_vco_throt_against_wood_elves_weapon_strength	Weapon strength: %+n% when fighting against Wood Elves	true
+effects_description_vco_effect_force_stat_ward_save_vs_daemons	Ward save: %n% when fighting against Daemons of Chaos	true
+effects_description_vco_def_malus_dilemma	A dilemma will offer a choice between powerful rewards!	true
