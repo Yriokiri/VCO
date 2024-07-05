@@ -1,150 +1,150 @@
 key	text	tooltip
 #Loc;1;text/db/vco_mission_text.loc		
-mission_text_text_vco_brt_bdx_1_alberic_vow	Complete the [[url:#]]Grail Vow[[/url]] with [[url:#]]Alberic de Bordeleaux[[/url]].	true
-mission_text_text_vco_brt_bdx_1_sacred_pools	Seek out the [[url:#]]Lady of the Lake[[/url]] in the heart of Lustria. Occupy the following region:	true
-mission_text_text_vco_brt_bdx_2_no_ocean_for_dead_men	<dummy>“Manann is our blessing, our patron, the one that brings food to our table. He’s also the one that drags our foes to the bottom of his watery home, the bringer of storms and crushing waves. He is the Sea and he is eternal.”	true
-mission_text_text_vco_brt_bdx_3_home_sweet_home	Return home to your ancestral castle and drive out the foes who have been terrorising the peasants in your absence.\\n\\nMaintain control of the following settlement either by direct ownership or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
-mission_text_text_vco_bst_tau_1_banebeast_naggaroth	<dummy>The skies over Naggaroth are stained crimson, for the Blood God's gaze has fallen upon the heavily fortified cities of the Dark Elves. Driven by countless turbid visions placed in his mind by Khorne, the Bloodbeast will not stop until all of Naggaroth is his blood-ground.	true
-mission_text_text_vco_bst_tau_2_beastpaths_ruin	<dummy>The Slaughterhorn leads his tribe south through the forests of Naggaroth and into the jungles of Lustria, driven ever onwards by portentious visions whispered in his primitive mind by the Ruinous Powers.	true
-mission_text_text_vco_bst_tau_3_heart_dark	<dummy>The exact location of this place is never spoken of, but the Bray-Shamans claim that all beastpaths ultimately lead toward it. At its centre is the mightiest herdstone in the whole of the world, resonating with a malignant power that Taurox vows will be his to harness.	true
-mission_text_text_vco_chs_arc_1_beginning_end	<dummy>There are those who would stand against your ascension. Your Father-in-Shadow schemes against you on Albion, the upstart "Godslayer" means to challenge your reign, and the Red Tzar oversteps his bounds, leading an expedition deep into the Chaos Wastes. They will all bend the knee, or they will all die.	true
-mission_text_text_vco_chs_arc_1_beginning_end_1	Control at least 3 of the following [[url:#]]Dark Fortresses[[/url]] either by direct ownership or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
-mission_text_text_vco_chs_arc_2_slayer_kings	<dummy>U'zhul, the daemon trapped within your blade, rages against your will, eager to taste the blood of kings. It is time to slake its thirst.	true
-mission_text_text_vco_chs_arc_2_slayer_kings_1	Control at least 4 of the following regions either by direct ownership or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
-mission_text_text_vco_chs_arc_3_end_times	<dummy>“Fear me mortals, for I am the Anointed, the favoured Son of Chaos, the Scourge of the World. The armies of the gods rally behind me, and it is by my will and by my sword that your weakling nations shall fall.”	true
-mission_text_text_vco_common_nagash_books_collected	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].	true
-mission_text_text_vco_common_nagash_books_collected_volkmar	Seal all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].	false
-mission_text_text_vco_common_nagash_books_collected_0	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 0)	false
-mission_text_text_vco_common_nagash_books_collected_1	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 1)	false
-mission_text_text_vco_common_nagash_books_collected_2	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 2)	false
-mission_text_text_vco_common_nagash_books_collected_3	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 3)	false
-mission_text_text_vco_common_nagash_books_collected_4	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 4)	false
-mission_text_text_vco_common_nagash_books_collected_5	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 5)	false
-mission_text_text_vco_common_nagash_books_collected_6	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 6)	false
-mission_text_text_vco_common_nagash_books_collected_7	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 7)	false
-mission_text_text_vco_common_nagash_books_collected_8	Collect all the [[col:subtitle_daemon_prince]]Books of Nagash[[/col]].\\n(Current: 8)	false
-mission_text_text_vco_cst_sar_1_captain_of_the_swordfysh	<dummy>Commander of the Swordfysh, a mighty galleon crewed by hundreds, Aranessa and her crew prefer boarding actions to thundering broadsides. The ship roves the Tilean Sea and beyond, raiding and pillaging any who cross her path. Make them all fear the crossed tridents upon her sails.	true
-mission_text_text_vco_cst_sar_2_daughter_of_manann	<dummy>Rumour has it that saltwater flows through her veins instead of blood. That she rose fully grown from the waves in a froth of gore. The truth, unknown to most, is not so magnificent - Aranessa was born a mutant in Skjold and thrown into the sea by her own Norscan tribe. Her crews and victims alike believe Manann, Lord of the Seas, watches over her, and the seas rage as the Swordfysh sails into the wealthiest ports.\\n	true
-mission_text_text_vco_cst_sar_3_dead_man_s_vengeance	<dummy>“Sartosa burned and we fled, but a mighty vengeance was born in us that day. Your death did not dull my spirit. You'll have your vengeance, Jaego. I swear it.”	true
-mission_text_text_vco_cth_the_northern_expedition	<dummy>Miao's sister, [[url:#]]Shen-Zoo[[/url]], [[url:#]]Dragon of Light[[/url]], was last seen venturing beyond the mountains of Norsca before her disappearance. After communion with the great god bear, Ursun, the Dragon Emperor now knows that she has been imprisoned somewhere within the [[url:#]]Chaos Wastes[[/url]].	true
-mission_text_text_vco_cth_the_northern_expedition_obfuscate	Search [[url:#]]Dark Fortresses[[/url]] for [[url:#]]Shen-Zoo[[/url]] via [[img:sword_of_khaine]][[/img]]conquest or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
-mission_text_text_vco_cth_the_northern_expedition_obfuscate_roc	Search [[url:#]]Dark Fortresses[[/url]] for the [[url:#]]Old One Relic[[/url]] via [[img:sword_of_khaine]][[/img]]conquest or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
-mission_text_text_vco_cth_the_northern_expedition_roc	<dummy>The Dragon Emperor commands his daughter to lead an expedition into the [[url:#]]Chaos Wastes[[/url]]. Not even the Storm Dragon knows the true purpose of her mission, only that she must search the [[url:#]]Dark Fortresses[[/url]] of the Chaos worshippers for an ancient relic once stolen from the Old Ones many centuries ago.	true
-mission_text_text_vco_cth_the_western_provinces_caravans	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.	true
-mission_text_text_vco_cth_the_western_provinces_caravans_0	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 0)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_1	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 1)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_2	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 2)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_3	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 3)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_4	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 4)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_5	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 5)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_6	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 6)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_7	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 7)	true
-mission_text_text_vco_cth_the_western_provinces_caravans_8	Complete the [[url:#]]Ivory Road[[/url]] with at least 9 caravans.\\n(Current: 8)	true
-mission_text_text_vco_cth_the_western_provinces_goods	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.	true
-mission_text_text_vco_cth_the_western_provinces_goods_0	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 0%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_1	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 1%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_2	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 2%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_3	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 3%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_4	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 4%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_5	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 5%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_6	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 6%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_7	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 7%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_8	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 8%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_9	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 9%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_10	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 10%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_11	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 11%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_12	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 12%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_13	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 13%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_14	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 14%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_15	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 15%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_16	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 16%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_17	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 17%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_18	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 18%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_19	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 19%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_20	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 20%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_21	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 21%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_22	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 22%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_23	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 23%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_24	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 24%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_25	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 25%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_26	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 26%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_27	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 27%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_28	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 28%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_29	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 29%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_30	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 30%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_31	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 31%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_32	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 32%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_33	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 33%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_34	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 34%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_35	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 35%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_36	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 36%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_37	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 37%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_38	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 38%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_39	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 39%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_40	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 40%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_41	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 41%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_42	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 42%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_43	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 43%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_44	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 44%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_45	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 45%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_46	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 46%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_47	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 47%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_48	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 48%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_49	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 49%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_50	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 50%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_51	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 51%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_52	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 52%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_53	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 53%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_54	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 54%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_55	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 55%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_56	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 56%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_57	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 57%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_58	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 58%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_59	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 59%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_60	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 60%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_61	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 61%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_62	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 62%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_63	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 63%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_64	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 64%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_65	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 65%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_66	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 66%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_67	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 67%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_68	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 68%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_69	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 69%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_70	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 70%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_71	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 71%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_72	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 72%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_73	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 73%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_74	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 74%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_75	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 75%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_76	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 76%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_77	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 77%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_78	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 78%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_79	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 79%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_80	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 80%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_81	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 81%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_82	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 82%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_83	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 83%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_84	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 84%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_85	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 85%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_86	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 86%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_87	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 87%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_88	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 88%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_89	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 89%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_90	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 90%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_91	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 91%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_92	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 92%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_93	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 93%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_94	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 94%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_95	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 95%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_96	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 96%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_97	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 97%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_98	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 98%)	true
-mission_text_text_vco_cth_the_western_provinces_goods_99	Trade a minimum of [[img:icon_caravan_cargo]][[/img]]13140 goods with the west.\\n(Current: 99%)	true
+mission_text_text_vco_brt_bdx_1_alberic_vow	Completa il [[url:#]]Giuramento del Calice[[/url]] con [[url:#]]Alberic de Bordeleaux[[/url]].	true
+mission_text_text_vco_brt_bdx_1_sacred_pools	Cerca la [[url:#]]Dama del Lago[[/url]] nel cuore della Lustria. Occula la seguente regione:	true
+mission_text_text_vco_brt_bdx_2_no_ocean_for_dead_men	<dummy>“Manann è la nostra benedizione, il nostro patrono, colui che porta il cibo sulla nostra tavola. È anche colui che trascina i nostri nemici sul fondo della sua casa acquatica, portatore di tempeste e onde devastanti. Lui è il Mare ed è eterno”.	true
+mission_text_text_vco_brt_bdx_3_home_sweet_home	Torna a casa, nel tuo castello ancestrale e scaccia i nemici che hanno terrorizzato i contadini in tua assenza.\\n\\nMantieni il controllo dell'insediamento tramite proprietà diretta o [[img:icon_vassal]][[/img]]vassalli e [[img:icon_military_alliance]][[/img]]alleati militari:	true
+mission_text_text_vco_bst_tau_1_banebeast_naggaroth	<dummy>I cieli sopra Naggaroth sono macchiati di cremisi, perché lo sguardo del Dio del Sangue è caduto sulle città pesantemente fortificate degli Elfi Oscuri. Spinto da innumerevoli torbide visioni messe nella sua mente da Khorne, la Bestia Sanguinaria non si fermerà finché tutta Naggaroth non diventerà il suo terreno di sangue.	true
+mission_text_text_vco_bst_tau_2_beastpaths_ruin	<dummy>Il Corno del Massacro guida la sua tribù a sud attraverso le foreste di Naggaroth e nelle giungle della Lustria, spinto sempre avanti da visioni portentose sussurrate nella sua mente primitiva dai Poteri Perniciosi.	true
+mission_text_text_vco_bst_tau_3_heart_dark	<dummy>Non si parla mai della posizione esatta di questo luogo, ma gli Sciamani Bray affermano che tutti i sentieri delle bestie alla fine conducono verso di esso. Al suo centro c'è la pietra del gregge più potente del mondo intero, che risuona di un potere maligno che Taurox giura sarà lui a sfruttare.	true
+mission_text_text_vco_chs_arc_1_beginning_end	<dummy>Ci sono quelli che si opporrebbero alla vostra ascensione. Il tuo Padre nell'Ombra complotta contro di te su Albion, il nuovo "Ammazzadei" intende sfidare il tuo regno e lo Zar Rosso oltrepassa i suoi limiti, guidando una spedizione nelle profondità delle Desolazioni del Caos. Si piegheranno tutti in ginocchio, o moriranno.	true
+mission_text_text_vco_chs_arc_1_beginning_end_1	Controlla almeno 3 delle seguenti [[url:#]]Fortezze Oscure[[/url]] tramite proprietà diretta o [[img:icon_vassal]][[/img]]vassalli e [[img:icon_military_alliance]][[/img]]alleati militari:	true
+mission_text_text_vco_chs_arc_2_slayer_kings	<dummy>U'zhul, il demone intrappolato nella tua lama, infuria contro la tua volontà, desideroso di assaggiare il sangue dei re. È tempo di placare la sua sete.	true
+mission_text_text_vco_chs_arc_2_slayer_kings_1	Controlla almeno 4 delle seguenti regioni tramite proprietà diretta o [[img:icon_vassal]][[/img]]vassalli e [[img:icon_military_alliance]][[/img]]alleati militari:	true
+mission_text_text_vco_chs_arc_3_end_times	<dummy>“Temetemi mortali, perché io sono l'Unto, il Figlio prediletto del Caos, il Flagello del mondo. Gli eserciti degli dei si radunano dietro di me, ed è per la mia volontà e per la mia spada che le tue deboli nazioni cadranno.”	true
+mission_text_text_vco_common_nagash_books_collected	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].	true
+mission_text_text_vco_common_nagash_books_collected_volkmar	Sigilla tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].	false
+mission_text_text_vco_common_nagash_books_collected_0	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 0)	false
+mission_text_text_vco_common_nagash_books_collected_1	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 1)	false
+mission_text_text_vco_common_nagash_books_collected_2	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 2)	false
+mission_text_text_vco_common_nagash_books_collected_3	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 3)	false
+mission_text_text_vco_common_nagash_books_collected_4	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 4)	false
+mission_text_text_vco_common_nagash_books_collected_5	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 5)	false
+mission_text_text_vco_common_nagash_books_collected_6	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 6)	false
+mission_text_text_vco_common_nagash_books_collected_7	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 7)	false
+mission_text_text_vco_common_nagash_books_collected_8	Colleziona tutti i [[col:subtitle_daemon_prince]]Libri di Nagash[[/col]].\\n(Attuale: 8)	false
+mission_text_text_vco_cst_sar_1_captain_of_the_swordfysh	<dummy>Comandante dello Swordfysh, un potente galeone con un equipaggio di centinaia di persone, Aranessa e il suo equipaggio preferiscono gli abbordaggi alle fragorose bordate. La nave percorre il Mare Tileano e oltre, razziando e saccheggiando chiunque incontri il suo cammino. Fa' che tutti temano i tridenti incrociati sulle sue vele.	true
+mission_text_text_vco_cst_sar_2_daughter_of_manann	<dummy>Si dice che nelle sue vene scorra acqua salata invece del sangue. Che si alzò completamente cresciuta dalle onde in una schiuma di sangue. La verità, sconosciuta ai più, non è così magnifica: Aranessa è nata mutante a Skjold e gettata in mare dalla sua stessa tribù norsca. I suoi equipaggi e le sue vittime credono che Manann, il Signore dei Mari, vegli su di lei, e i mari infuriano mentre la Swordfysh salpa verso i porti più ricchi.\\n	true
+mission_text_text_vco_cst_sar_3_dead_man_s_vengeance	<dummy>“Sartosa bruciò e noi fuggimmo, ma quel giorno nacque in noi una potente vendetta. La tua morte non ha offuscato il mio spirito. Avrai la tua vendetta, Jaego. Lo giuro.”	true
+mission_text_text_vco_cth_the_northern_expedition	<dummy>La sorella di Miao, [[url:#]]Shen-Zoo[[/url]], [[url:#]]Drago di Luce[[/url]], è stata vista l'ultima volta avventurarsi oltre le montagne di Norsca prima della sua scomparsa. Dopo la comunione con il grande dio orso, Ursun, l'Imperatore Drago ora sa che è stata imprigionata da qualche parte nelle [[url:#]]Desolazioni del Caos[[/url]].	true
+mission_text_text_vco_cth_the_northern_expedition_obfuscate	Ispeziona Le [[url:#]]Fortezze Oscure[[/url]] per [[url:#]]Shen-Zoo[[/url]] attraverso [[img:sword_of_khaine]][[/img]]conquista o tramite [[img:icon_vassal]][[/img]]vassalli o [[img:icon_military_alliance]][[/img]]alleati militari:	true
+mission_text_text_vco_cth_the_northern_expedition_obfuscate_roc	Ispeziona Le [[url:#]]Fortezze Oscure[[/url]] per le [[url:#]]Reliquie degli Antichi[[/url]] attraverso [[img:sword_of_khaine]][[/img]]conquista o tramite [[img:icon_vassal]][[/img]]vassalli o [[img:icon_military_alliance]][[/img]]alleati militari:	true
+mission_text_text_vco_cth_the_northern_expedition_roc	<dummy>L'Imperatore Drago ordina a sua figlia di guidare una spedizione nelle [[url:#]]Desolazioni del Caos[[/url]]. Nemmeno il Drago della Tempesta conosce il vero scopo della sua missione, sa solo che deve cercare nelle [[url:#]]Fortezze Oscure[[/url]] degli adoratori del Caos un'antica reliquia rubata agli Antichi molti secoli fa.	true
+mission_text_text_vco_cth_the_western_provinces_caravans	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.	true
+mission_text_text_vco_cth_the_western_provinces_caravans_0	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 0)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_1	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 1)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_2	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 2)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_3	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 3)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_4	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 4)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_5	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 5)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_6	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 6)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_7	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 7)	true
+mission_text_text_vco_cth_the_western_provinces_caravans_8	Completa la [[url:#]]Strada d'Avorio[[/url]] con almeno 9 caravan.\\n(Attuale: 8)	true
+mission_text_text_vco_cth_the_western_provinces_goods	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.	true
+mission_text_text_vco_cth_the_western_provinces_goods_0	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 0%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_1	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 1%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_2	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 2%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_3	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 3%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_4	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 4%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_5	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 5%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_6	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 6%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_7	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 7%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_8	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 8%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_9	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 9%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_10	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 10%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_11	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 11%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_12	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 12%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_13	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 13%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_14	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 14%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_15	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 15%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_16	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 16%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_17	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 17%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_18	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 18%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_19	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 19%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_20	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 20%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_21	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 21%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_22	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 22%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_23	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 23%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_24	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 24%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_25	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 25%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_26	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 26%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_27	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 27%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_28	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 28%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_29	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 29%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_30	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 30%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_31	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 31%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_32	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 32%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_33	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 33%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_34	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 34%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_35	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 35%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_36	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 36%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_37	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 37%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_38	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 38%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_39	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 39%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_40	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 40%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_41	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 41%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_42	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 42%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_43	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 43%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_44	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 44%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_45	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 45%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_46	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 46%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_47	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 47%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_48	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 48%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_49	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 49%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_50	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 50%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_51	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 51%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_52	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 52%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_53	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 53%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_54	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 54%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_55	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 55%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_56	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 56%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_57	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 57%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_58	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 58%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_59	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 59%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_60	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 60%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_61	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 61%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_62	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 62%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_63	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 63%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_64	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 64%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_65	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 65%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_66	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 66%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_67	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 67%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_68	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 68%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_69	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 69%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_70	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 70%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_71	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 71%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_72	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 72%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_73	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 73%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_74	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 74%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_75	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 75%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_76	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 76%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_77	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 77%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_78	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 78%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_79	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 79%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_80	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 80%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_81	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 81%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_82	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 82%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_83	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 83%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_84	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 84%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_85	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 85%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_86	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 86%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_87	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 87%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_88	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 88%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_89	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 89%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_90	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 90%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_91	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 91%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_92	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 92%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_93	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 93%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_94	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 94%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_95	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 95%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_96	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 96%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_97	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 97%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_98	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 98%)	true
+mission_text_text_vco_cth_the_western_provinces_goods_99	Commercia un minimo di [[img:icon_caravan_cargo]][[/img]]13140 merci con l'ovest.\\n(Attuale: 99%)	true
 mission_text_text_vco_cth_unify_grand_cathay	<dummy>Miao Ying gathers a great host under her banner, drawing from all the levies within the Northern Provinces. For too long she has safeguarded the Great Bastion, repelling countless incursions, yet denied every chance at reprisal. The Jade Dragon denounces his sister's reckless ambition, but his protestations are dismissed as yet another storm in a teacup. The north wind blows strongly, a clear omen of war and glory. Who is he to deny prophecy?	true
 mission_text_text_vco_cth_unify_great_bastion	<dummy>“My siblings resent me, thinking me favoured for I am the eldest. They envy my station. They are wrong! I am cursed with responsibility, the ultimate responsibility... Should I fail and the Bastion falls, then Cathay is doomed, and they will be jealous of nothing but a wasteland!”	true
-mission_text_text_vco_cth_unify_ivory_road	<dummy>At the Tower of Ashshair, Zhao Ming once came to an agreement with Greasus Goldtooth: Cathay's caravans would have safe passage through the Ogre's lands, as long as a toll was paid. In the years since that bargain was struck, Greasus has risen to the rank of Overtyrant - leader of the Ogre Kingdoms, and his tolls have become increasingly exorbitant. The Iron Dragon must rein in the gluttonous Ogre's excesses, or else abandon all pretenses of diplomacy and secure the Ivory Road by force of arms.	true
-mission_text_text_vco_cth_zha_1_iron_into_gold	<dummy>Though the Ivory Road reaps enormous profits, it is also used to exert influence over foreign powers and further Cathay's interests abroad. In Shang-Yang, the largest city in the Western Provinces, weary merchants and envoys are provided with every comfort and showered with luxurious gifts, thus ensuring they are more amenable to the Dragon Emperor's demands.	true
+mission_text_text_vco_cth_unify_ivory_road	<dummy>At the Tower of Ashshair, Zhao Ming once came to an agreement with Greasus Goldtooth: Cathay's caravans would have safe passage through the Ogre's lands, as long as a toll was paid. In the years since that bargain was struck, Greasus has risen to the rank of Overtyrant - leader of the Ogre Kingdoms, and his tolls have become increasingly exorbitant. The Iron Dragon must rein in the gluttonous Ogre's excesses, or else abandon all pretenses of diplomacy and secure the Strada d'Avorio by force of arms.	true
+mission_text_text_vco_cth_zha_1_iron_into_gold	<dummy>Though the Strada d'Avorio reaps enormous profits, it is also used to exert influence over foreign powers and further Cathay's interests abroad. In Shang-Yang, the largest city in the Western Provinces, weary merchants and envoys are provided with every comfort and showered with luxurious gifts, thus ensuring they are more amenable to the Dragon Emperor's demands.	true
 mission_text_text_vco_cth_zha_2_warpstone_hoard	<dummy>The strange elements found in the Warpstone Desert have only deepened Zhao's fascination with alchemy. Having ascertained the location of hoards of warpstone abroad, the Iron Dragon feels he now has enough information to launch an expedition into the west.	true
 mission_text_text_vco_cth_zha_3_black_fortress	<dummy>To ensure the safety of caravans travelling through Gnoblar Country, the Iron Dragon must do battle with zombies from the Haunted Forest, Chaos Dwarf slavers from the Black Fortress, and even the infamous Nurglite daemon Zin-Fa the Ever-Pustulent. Since his defeat by Zhao and his brothers at Shang-Wu, Ku'gath has returned to the mortal realm and now plagues the Dragon Isles.	true
 mission_text_text_vco_cth_zha_3_black_fortress_roc	<dummy>The Legion of Azgorh have abandoned their previous arrangement with the Iron Dragon and now brazenly attack his caravans from their stronghold of Black Fortress. They will soon learn the folly of their actions.	true
@@ -215,12 +215,12 @@ mission_text_text_vco_nor_wul_1_ragnarok	<dummy>The End Times are nigh. Wulfrik 
 mission_text_text_vco_nor_wul_2_the_world_walker	<dummy>After a drunken boast made in sight of the Dark Gods, Wulfrik was cursed to forever wander the earth and seek out the fiercest challengers and slay them in single combat.	true
 mission_text_text_vco_nor_wul_2_the_world_walker_override	Control at least 10 of the following regions either by [[img:sword_of_khaine]][[/img]]conquest or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
 mission_text_text_vco_nor_wul_3_monster_hunt	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]].	true
-mission_text_text_vco_nor_wul_3_monster_hunt_0	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 0)	true
-mission_text_text_vco_nor_wul_3_monster_hunt_1	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 1)	true
-mission_text_text_vco_nor_wul_3_monster_hunt_2	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 2)	true
-mission_text_text_vco_nor_wul_3_monster_hunt_3	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 3)	true
-mission_text_text_vco_nor_wul_3_monster_hunt_4	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 4)	true
-mission_text_text_vco_nor_wul_3_monster_hunt_5	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Current: 5)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_0	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 0)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_1	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 1)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_2	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 2)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_3	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 3)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_4	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 4)	true
+mission_text_text_vco_nor_wul_3_monster_hunt_5	Wulfrik leads his World Walkers across the world in search of mighty beasts to slay. Though the rewards are great, so too are the risks.\\n\\nComplete 6 [[url:#]]Monster Hunts[[/url]]. (Attuale: 5)	true
 mission_text_text_vco_nor_wul_3_wheres_my_palico	The Norse adventurer Losteriksson was the first Norscan to land on the coast of Lustria and live to tell the tale. The settlement he founded still stands to this day, though it is under dire threat from the Lizardmen of the jungle. Occupy the following region:	true
 mission_text_text_vco_nor_wul_3_wheres_my_palico_1	<dummy>The time has come for Wulfrik to rise as chieftan of all of Norsca. There will be many challengers who will seek to hold control of their own tribes. Slay them all, and offer their blood up to the Seafang!	false
 mission_text_text_vco_nur_kug_1_great_game	<dummy>The Plague Lord, obsessed with his ceaseless foetid experiments, seems to care little about the Great Game. Yet his carefree demeanour subtly undermines the plotting and politicking of the other Chaos Gods. It drives Khorne to an unthinking fury, disturbs Tzeentch's insidious train of thought, and distracts Slaanesh from his indulgences. Meanwhile, Nurgle's own intrigues spread slowly like a cancer.	true
@@ -230,107 +230,107 @@ mission_text_text_vco_nur_kug_2_frozen_poxes_roc	<dummy>The Urfather's plagues h
 mission_text_text_vco_nur_kug_3_death_dwarfs	<dummy>It is during forays into the Known World that Ku'gath has encountered the one mortal race that has penetrated his scientific detachment to kindle his rage - the Dwarfs. On a professional level, the Plaguefather hates the creatures for their resilience to disease; on a personal level, he is embittered by a truly ignominious defeat beneath the walls of Karaz-a-Karak. Either way, there is no doubt in Ku'gath's mind as to the first test subjects when his perfect plague is prepared.	true
 mission_text_text_vco_nur_kug_3_death_dwarfs_1	<dummy>The Brewmaster means to sample the polluted River Ruin for new reagents for his concotions. To do so, he must travel north and seek out the corruption at its source.	true
 mission_text_text_vco_nur_kug_3_death_dwarfs_1_roc	<dummy>The Brewmaster means to sample the polluted River Ruin for new reagents for his concotions. To do so, he must travel to the Dark Lands and seek out the corruption at its source.	true
-mission_text_text_vco_ogr_gre_1_rich_walk	Have a gross income of 25,000 (Current: 100%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_0	Have a gross income of 25,000 (Current: 0%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_1	Have a gross income of 25,000 (Current: 1%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_2	Have a gross income of 25,000 (Current: 2%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_3	Have a gross income of 25,000 (Current: 3%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_4	Have a gross income of 25,000 (Current: 4%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_5	Have a gross income of 25,000 (Current: 5%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_6	Have a gross income of 25,000 (Current: 6%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_7	Have a gross income of 25,000 (Current: 7%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_8	Have a gross income of 25,000 (Current: 8%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_9	Have a gross income of 25,000 (Current: 9%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_10	Have a gross income of 25,000 (Current: 10%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_11	Have a gross income of 25,000 (Current: 11%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_12	Have a gross income of 25,000 (Current: 12%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_13	Have a gross income of 25,000 (Current: 13%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_14	Have a gross income of 25,000 (Current: 14%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_15	Have a gross income of 25,000 (Current: 15%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_16	Have a gross income of 25,000 (Current: 16%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_17	Have a gross income of 25,000 (Current: 17%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_18	Have a gross income of 25,000 (Current: 18%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_19	Have a gross income of 25,000 (Current: 19%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_20	Have a gross income of 25,000 (Current: 20%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_21	Have a gross income of 25,000 (Current: 21%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_22	Have a gross income of 25,000 (Current: 22%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_23	Have a gross income of 25,000 (Current: 23%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_24	Have a gross income of 25,000 (Current: 24%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_25	Have a gross income of 25,000 (Current: 25%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_26	Have a gross income of 25,000 (Current: 26%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_27	Have a gross income of 25,000 (Current: 27%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_28	Have a gross income of 25,000 (Current: 28%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_29	Have a gross income of 25,000 (Current: 29%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_30	Have a gross income of 25,000 (Current: 30%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_31	Have a gross income of 25,000 (Current: 31%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_32	Have a gross income of 25,000 (Current: 32%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_33	Have a gross income of 25,000 (Current: 33%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_34	Have a gross income of 25,000 (Current: 34%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_35	Have a gross income of 25,000 (Current: 35%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_36	Have a gross income of 25,000 (Current: 36%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_37	Have a gross income of 25,000 (Current: 37%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_38	Have a gross income of 25,000 (Current: 38%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_39	Have a gross income of 25,000 (Current: 39%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_40	Have a gross income of 25,000 (Current: 40%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_41	Have a gross income of 25,000 (Current: 41%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_42	Have a gross income of 25,000 (Current: 42%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_43	Have a gross income of 25,000 (Current: 43%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_44	Have a gross income of 25,000 (Current: 44%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_45	Have a gross income of 25,000 (Current: 45%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_46	Have a gross income of 25,000 (Current: 46%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_47	Have a gross income of 25,000 (Current: 47%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_48	Have a gross income of 25,000 (Current: 48%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_49	Have a gross income of 25,000 (Current: 49%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_50	Have a gross income of 25,000 (Current: 50%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_51	Have a gross income of 25,000 (Current: 51%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_52	Have a gross income of 25,000 (Current: 52%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_53	Have a gross income of 25,000 (Current: 53%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_54	Have a gross income of 25,000 (Current: 54%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_55	Have a gross income of 25,000 (Current: 55%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_56	Have a gross income of 25,000 (Current: 56%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_57	Have a gross income of 25,000 (Current: 57%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_58	Have a gross income of 25,000 (Current: 58%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_59	Have a gross income of 25,000 (Current: 59%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_60	Have a gross income of 25,000 (Current: 60%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_61	Have a gross income of 25,000 (Current: 61%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_62	Have a gross income of 25,000 (Current: 62%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_63	Have a gross income of 25,000 (Current: 63%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_64	Have a gross income of 25,000 (Current: 64%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_65	Have a gross income of 25,000 (Current: 65%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_66	Have a gross income of 25,000 (Current: 66%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_67	Have a gross income of 25,000 (Current: 67%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_68	Have a gross income of 25,000 (Current: 68%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_69	Have a gross income of 25,000 (Current: 69%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_70	Have a gross income of 25,000 (Current: 70%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_71	Have a gross income of 25,000 (Current: 71%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_72	Have a gross income of 25,000 (Current: 72%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_73	Have a gross income of 25,000 (Current: 73%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_74	Have a gross income of 25,000 (Current: 74%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_75	Have a gross income of 25,000 (Current: 75%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_76	Have a gross income of 25,000 (Current: 76%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_77	Have a gross income of 25,000 (Current: 77%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_78	Have a gross income of 25,000 (Current: 78%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_79	Have a gross income of 25,000 (Current: 79%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_80	Have a gross income of 25,000 (Current: 80%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_81	Have a gross income of 25,000 (Current: 81%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_82	Have a gross income of 25,000 (Current: 82%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_83	Have a gross income of 25,000 (Current: 83%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_84	Have a gross income of 25,000 (Current: 84%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_85	Have a gross income of 25,000 (Current: 85%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_86	Have a gross income of 25,000 (Current: 86%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_87	Have a gross income of 25,000 (Current: 87%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_88	Have a gross income of 25,000 (Current: 88%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_89	Have a gross income of 25,000 (Current: 89%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_90	Have a gross income of 25,000 (Current: 90%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_91	Have a gross income of 25,000 (Current: 91%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_92	Have a gross income of 25,000 (Current: 92%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_93	Have a gross income of 25,000 (Current: 93%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_94	Have a gross income of 25,000 (Current: 94%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_95	Have a gross income of 25,000 (Current: 95%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_96	Have a gross income of 25,000 (Current: 96%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_97	Have a gross income of 25,000 (Current: 97%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_98	Have a gross income of 25,000 (Current: 98%).	true
-mission_text_text_vco_ogr_gre_1_rich_walk_99	Have a gross income of 25,000 (Current: 99%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk	Have a gross income of 25,000 (Attuale: 100%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_0	Have a gross income of 25,000 (Attuale: 0%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_1	Have a gross income of 25,000 (Attuale: 1%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_2	Have a gross income of 25,000 (Attuale: 2%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_3	Have a gross income of 25,000 (Attuale: 3%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_4	Have a gross income of 25,000 (Attuale: 4%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_5	Have a gross income of 25,000 (Attuale: 5%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_6	Have a gross income of 25,000 (Attuale: 6%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_7	Have a gross income of 25,000 (Attuale: 7%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_8	Have a gross income of 25,000 (Attuale: 8%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_9	Have a gross income of 25,000 (Attuale: 9%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_10	Have a gross income of 25,000 (Attuale: 10%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_11	Have a gross income of 25,000 (Attuale: 11%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_12	Have a gross income of 25,000 (Attuale: 12%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_13	Have a gross income of 25,000 (Attuale: 13%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_14	Have a gross income of 25,000 (Attuale: 14%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_15	Have a gross income of 25,000 (Attuale: 15%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_16	Have a gross income of 25,000 (Attuale: 16%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_17	Have a gross income of 25,000 (Attuale: 17%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_18	Have a gross income of 25,000 (Attuale: 18%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_19	Have a gross income of 25,000 (Attuale: 19%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_20	Have a gross income of 25,000 (Attuale: 20%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_21	Have a gross income of 25,000 (Attuale: 21%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_22	Have a gross income of 25,000 (Attuale: 22%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_23	Have a gross income of 25,000 (Attuale: 23%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_24	Have a gross income of 25,000 (Attuale: 24%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_25	Have a gross income of 25,000 (Attuale: 25%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_26	Have a gross income of 25,000 (Attuale: 26%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_27	Have a gross income of 25,000 (Attuale: 27%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_28	Have a gross income of 25,000 (Attuale: 28%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_29	Have a gross income of 25,000 (Attuale: 29%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_30	Have a gross income of 25,000 (Attuale: 30%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_31	Have a gross income of 25,000 (Attuale: 31%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_32	Have a gross income of 25,000 (Attuale: 32%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_33	Have a gross income of 25,000 (Attuale: 33%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_34	Have a gross income of 25,000 (Attuale: 34%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_35	Have a gross income of 25,000 (Attuale: 35%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_36	Have a gross income of 25,000 (Attuale: 36%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_37	Have a gross income of 25,000 (Attuale: 37%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_38	Have a gross income of 25,000 (Attuale: 38%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_39	Have a gross income of 25,000 (Attuale: 39%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_40	Have a gross income of 25,000 (Attuale: 40%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_41	Have a gross income of 25,000 (Attuale: 41%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_42	Have a gross income of 25,000 (Attuale: 42%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_43	Have a gross income of 25,000 (Attuale: 43%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_44	Have a gross income of 25,000 (Attuale: 44%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_45	Have a gross income of 25,000 (Attuale: 45%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_46	Have a gross income of 25,000 (Attuale: 46%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_47	Have a gross income of 25,000 (Attuale: 47%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_48	Have a gross income of 25,000 (Attuale: 48%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_49	Have a gross income of 25,000 (Attuale: 49%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_50	Have a gross income of 25,000 (Attuale: 50%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_51	Have a gross income of 25,000 (Attuale: 51%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_52	Have a gross income of 25,000 (Attuale: 52%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_53	Have a gross income of 25,000 (Attuale: 53%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_54	Have a gross income of 25,000 (Attuale: 54%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_55	Have a gross income of 25,000 (Attuale: 55%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_56	Have a gross income of 25,000 (Attuale: 56%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_57	Have a gross income of 25,000 (Attuale: 57%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_58	Have a gross income of 25,000 (Attuale: 58%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_59	Have a gross income of 25,000 (Attuale: 59%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_60	Have a gross income of 25,000 (Attuale: 60%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_61	Have a gross income of 25,000 (Attuale: 61%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_62	Have a gross income of 25,000 (Attuale: 62%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_63	Have a gross income of 25,000 (Attuale: 63%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_64	Have a gross income of 25,000 (Attuale: 64%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_65	Have a gross income of 25,000 (Attuale: 65%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_66	Have a gross income of 25,000 (Attuale: 66%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_67	Have a gross income of 25,000 (Attuale: 67%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_68	Have a gross income of 25,000 (Attuale: 68%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_69	Have a gross income of 25,000 (Attuale: 69%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_70	Have a gross income of 25,000 (Attuale: 70%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_71	Have a gross income of 25,000 (Attuale: 71%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_72	Have a gross income of 25,000 (Attuale: 72%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_73	Have a gross income of 25,000 (Attuale: 73%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_74	Have a gross income of 25,000 (Attuale: 74%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_75	Have a gross income of 25,000 (Attuale: 75%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_76	Have a gross income of 25,000 (Attuale: 76%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_77	Have a gross income of 25,000 (Attuale: 77%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_78	Have a gross income of 25,000 (Attuale: 78%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_79	Have a gross income of 25,000 (Attuale: 79%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_80	Have a gross income of 25,000 (Attuale: 80%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_81	Have a gross income of 25,000 (Attuale: 81%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_82	Have a gross income of 25,000 (Attuale: 82%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_83	Have a gross income of 25,000 (Attuale: 83%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_84	Have a gross income of 25,000 (Attuale: 84%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_85	Have a gross income of 25,000 (Attuale: 85%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_86	Have a gross income of 25,000 (Attuale: 86%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_87	Have a gross income of 25,000 (Attuale: 87%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_88	Have a gross income of 25,000 (Attuale: 88%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_89	Have a gross income of 25,000 (Attuale: 89%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_90	Have a gross income of 25,000 (Attuale: 90%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_91	Have a gross income of 25,000 (Attuale: 91%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_92	Have a gross income of 25,000 (Attuale: 92%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_93	Have a gross income of 25,000 (Attuale: 93%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_94	Have a gross income of 25,000 (Attuale: 94%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_95	Have a gross income of 25,000 (Attuale: 95%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_96	Have a gross income of 25,000 (Attuale: 96%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_97	Have a gross income of 25,000 (Attuale: 97%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_98	Have a gross income of 25,000 (Attuale: 98%).	true
+mission_text_text_vco_ogr_gre_1_rich_walk_99	Have a gross income of 25,000 (Attuale: 99%).	true
 mission_text_text_vco_ogr_gre_1_DUMMY_MONEY	<dummy>The Goldtooth tribe is notorious for its wealth. Ever eager to show off their top status, they are given to ostentatious displays - from a vast mountaintop feast hall, to gem-encrusted gutplates and even a solid gold Mawtooth. Now, under the rule of Greasus, the tribe will grow richer still.	true
 mission_text_text_vco_ogr_gre_2_overtyrants_reign_1	<dummy>Greasus' overflowing coffers have not diminished his greed nor his all-consuming desire to conquer everything he sees. The Tribestealer will unite the Ogres of the Mountains of Mourn into the largest Ogre Kingdom in history!	true
 mission_text_text_vco_ogr_gre_2_overtyrants_reign_2	<dummy>The Black Orc known as Grimgor Ironhide seeks to challenge Greasus' reign, brazenly dubbing himself "Boss of the East". The Sceptre of Titans will disabuse him of this notion.	true
@@ -345,280 +345,280 @@ mission_text_text_vco_ogr_skr_3_hunger_power_1	Control at least 1 of the followi
 mission_text_text_vco_ogr_skr_3_hunger_power_2	Control at least 4 of the following regions either by [[img:sword_of_khaine]][[/img]]conquest or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
 mission_text_text_vco_ogr_skr_3_hunger_power_roc	<dummy>Your Gorgers grow hungry devouring the scrawny men of the Empire. They long for hardier prey. Skrag conducts a grand blood ritual, committing the bloody remnants of the sacrificed into his maw-cauldron. Reading the patterns in the entrails, he divines the Great Maw's intent for his ravenous tribe.	true
 mission_text_text_vco_ogr_the_maw_that_walks	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].	true
-mission_text_text_vco_ogr_the_maw_that_walks_0	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 0%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_1	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 1%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_2	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 2%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_3	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 3%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_4	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 4%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_5	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 5%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_6	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 6%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_7	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 7%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_8	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 8%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_9	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 9%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_10	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 10%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_11	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 11%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_12	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 12%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_13	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 13%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_14	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 14%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_15	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 15%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_16	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 16%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_17	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 17%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_18	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 18%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_19	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 19%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_20	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 20%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_21	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 21%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_22	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 22%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_23	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 23%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_24	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 24%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_25	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 25%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_26	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 26%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_27	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 27%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_28	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 28%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_29	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 29%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_30	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 30%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_31	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 31%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_32	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 32%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_33	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 33%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_34	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 34%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_35	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 35%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_36	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 36%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_37	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 37%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_38	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 38%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_39	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 39%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_40	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 40%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_41	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 41%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_42	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 42%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_43	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 43%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_44	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 44%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_45	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 45%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_46	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 46%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_47	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 47%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_48	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 48%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_49	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 49%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_50	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 50%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_51	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 51%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_52	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 52%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_53	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 53%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_54	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 54%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_55	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 55%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_56	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 56%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_57	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 57%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_58	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 58%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_59	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 59%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_60	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 60%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_61	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 61%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_62	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 62%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_63	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 63%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_64	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 64%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_65	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 65%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_66	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 66%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_67	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 67%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_68	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 68%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_69	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 69%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_70	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 70%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_71	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 71%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_72	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 72%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_73	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 73%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_74	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 74%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_75	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 75%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_76	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 76%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_77	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 77%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_78	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 78%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_79	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 79%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_80	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 80%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_81	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 81%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_82	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 82%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_83	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 83%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_84	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 84%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_85	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 85%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_86	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 86%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_87	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 87%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_88	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 88%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_89	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 89%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_90	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 90%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_91	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 91%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_92	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 92%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_93	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 93%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_94	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 94%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_95	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 95%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_96	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 96%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_97	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 97%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_98	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 98%)	true
-mission_text_text_vco_ogr_the_maw_that_walks_99	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Current: 99%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_0	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 0%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_1	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 1%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_2	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 2%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_3	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 3%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_4	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 4%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_5	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 5%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_6	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 6%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_7	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 7%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_8	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 8%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_9	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 9%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_10	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 10%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_11	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 11%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_12	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 12%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_13	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 13%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_14	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 14%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_15	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 15%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_16	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 16%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_17	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 17%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_18	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 18%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_19	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 19%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_20	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 20%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_21	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 21%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_22	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 22%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_23	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 23%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_24	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 24%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_25	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 25%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_26	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 26%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_27	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 27%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_28	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 28%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_29	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 29%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_30	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 30%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_31	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 31%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_32	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 32%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_33	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 33%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_34	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 34%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_35	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 35%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_36	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 36%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_37	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 37%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_38	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 38%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_39	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 39%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_40	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 40%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_41	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 41%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_42	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 42%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_43	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 43%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_44	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 44%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_45	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 45%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_46	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 46%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_47	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 47%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_48	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 48%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_49	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 49%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_50	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 50%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_51	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 51%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_52	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 52%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_53	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 53%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_54	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 54%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_55	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 55%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_56	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 56%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_57	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 57%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_58	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 58%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_59	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 59%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_60	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 60%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_61	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 61%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_62	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 62%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_63	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 63%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_64	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 64%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_65	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 65%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_66	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 66%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_67	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 67%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_68	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 68%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_69	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 69%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_70	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 70%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_71	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 71%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_72	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 72%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_73	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 73%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_74	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 74%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_75	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 75%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_76	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 76%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_77	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 77%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_78	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 78%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_79	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 79%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_80	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 80%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_81	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 81%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_82	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 82%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_83	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 83%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_84	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 84%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_85	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 85%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_86	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 86%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_87	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 87%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_88	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 88%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_89	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 89%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_90	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 90%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_91	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 91%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_92	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 92%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_93	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 93%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_94	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 94%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_95	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 95%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_96	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 96%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_97	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 97%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_98	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 98%)	true
+mission_text_text_vco_ogr_the_maw_that_walks_99	Meat for the Cauldron! Offer a total of 200 [[img:icon_ogr_meat]][[/img]]Meat to the [[url:#]]Great Maw[[/url]].\\n(Attuale: 99%)	true
 mission_text_text_vco_skv_mdr_1_yes_yes_prepare_the_lab_1	<dummy>Clan Moulder swarms westward, journeying to the frozen lands of [[col:subtitle_ursun]]Norsca[[/col]]. The savages that eke out a living here will serve well as livestock and fodder for the [[col:subtitle_kislev_crowd]]Flesh Labs[[/col]], though Throt has his sights set on larger prey. All manner of ferocious, tainted beasts stalk these lands, and the Packmasters stand ready to drag them all back to [[col:dark_r]]Hell Pit[[/col]] for Throt's twisted experiments. Let the hunt begin!	false
 mission_text_text_vco_skv_mdr_1_yes_yes_prepare_the_lab	Unlock all [[url:#]]Infantry Augments[[/url]] and [[url:#]]Monster Augments[[/url]].	true
 mission_text_text_vco_skv_mdr_2_the_vermintide_comes	<dummy>Throt leads his vermintide south, into the realm of the man-things. [[col:dark_r]]Hell Pit[[/col]]'s fleshy depths bulge with an overabundance of Throt's offspring. The time has come to unleash this vermintide upon the realms of men. The bells of war toll thirteen times, and the chittering hordes spill forth...	true
 mission_text_text_vco_skv_mdr_3_ultimate_harvest	<dummy>Throt journeys south, seeking to destroy precious [[col:green]]Asrai Waystones[[/col]] hidden in forests throughout the Old World. Their destruction will draw the Elf Queen, [[col:green]]Ariel[[/col]], out of hiding, and render her vulnerable for the first time in aeons. By Throt's reckoning, acquiring the demigoddess' life essence will make Clan Moulder the most powerful clan in all of Skavendom!	true
-mission_text_text_vco_sla_cults_established_1	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 1)	true
-mission_text_text_vco_sla_cults_established_2	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 2)	true
-mission_text_text_vco_sla_cults_established_3	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 3)	true
-mission_text_text_vco_sla_cults_established_4	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 4)	true
-mission_text_text_vco_sla_cults_established_5	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 5)	true
-mission_text_text_vco_sla_cults_established_6	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 6)	true
-mission_text_text_vco_sla_cults_established_7	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 7)	true
-mission_text_text_vco_sla_cults_established_8	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 8)	true
-mission_text_text_vco_sla_cults_established_9	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 9)	true
-mission_text_text_vco_sla_cults_established_10	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 10)	true
-mission_text_text_vco_sla_cults_established_11	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 11)	true
-mission_text_text_vco_sla_cults_established_12	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 12)	true
-mission_text_text_vco_sla_cults_established_13	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 13)	true
-mission_text_text_vco_sla_cults_established_14	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 14)	true
-mission_text_text_vco_sla_cults_established_15	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 15)	true
-mission_text_text_vco_sla_cults_established_16	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 16)	true
-mission_text_text_vco_sla_cults_established_17	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 17)	true
-mission_text_text_vco_sla_cults_established_18	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 18)	true
-mission_text_text_vco_sla_cults_established_19	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 19)	true
+mission_text_text_vco_sla_cults_established_1	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 1)	true
+mission_text_text_vco_sla_cults_established_2	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 2)	true
+mission_text_text_vco_sla_cults_established_3	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 3)	true
+mission_text_text_vco_sla_cults_established_4	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 4)	true
+mission_text_text_vco_sla_cults_established_5	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 5)	true
+mission_text_text_vco_sla_cults_established_6	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 6)	true
+mission_text_text_vco_sla_cults_established_7	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 7)	true
+mission_text_text_vco_sla_cults_established_8	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 8)	true
+mission_text_text_vco_sla_cults_established_9	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 9)	true
+mission_text_text_vco_sla_cults_established_10	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 10)	true
+mission_text_text_vco_sla_cults_established_11	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 11)	true
+mission_text_text_vco_sla_cults_established_12	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 12)	true
+mission_text_text_vco_sla_cults_established_13	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 13)	true
+mission_text_text_vco_sla_cults_established_14	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 14)	true
+mission_text_text_vco_sla_cults_established_15	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 15)	true
+mission_text_text_vco_sla_cults_established_16	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 16)	true
+mission_text_text_vco_sla_cults_established_17	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 17)	true
+mission_text_text_vco_sla_cults_established_18	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 18)	true
+mission_text_text_vco_sla_cults_established_19	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 19)	true
 mission_text_text_vco_sla_cults_established_completed	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]].	true
-mission_text_text_vco_sla_gifts_given_1	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 1)	true
-mission_text_text_vco_sla_gifts_given_2	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 2)	true
-mission_text_text_vco_sla_gifts_given_3	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 3)	true
-mission_text_text_vco_sla_gifts_given_4	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 4)	true
-mission_text_text_vco_sla_gifts_given_5	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 5)	true
-mission_text_text_vco_sla_gifts_given_6	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 6)	true
-mission_text_text_vco_sla_gifts_given_7	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 7)	true
-mission_text_text_vco_sla_gifts_given_8	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 8)	true
-mission_text_text_vco_sla_gifts_given_9	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 9)	true
-mission_text_text_vco_sla_gifts_given_10	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 10)	true
-mission_text_text_vco_sla_gifts_given_11	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 11)	true
-mission_text_text_vco_sla_gifts_given_12	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 12)	true
-mission_text_text_vco_sla_gifts_given_13	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 13)	true
-mission_text_text_vco_sla_gifts_given_14	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 14)	true
-mission_text_text_vco_sla_gifts_given_15	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 15)	true
-mission_text_text_vco_sla_gifts_given_16	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 16)	true
-mission_text_text_vco_sla_gifts_given_17	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 17)	true
-mission_text_text_vco_sla_gifts_given_18	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 18)	true
-mission_text_text_vco_sla_gifts_given_19	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 19)	true
-mission_text_text_vco_sla_gifts_given_20	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 20)	true
-mission_text_text_vco_sla_gifts_given_21	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 21)	true
-mission_text_text_vco_sla_gifts_given_22	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 22)	true
-mission_text_text_vco_sla_gifts_given_23	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 23)	true
-mission_text_text_vco_sla_gifts_given_24	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 24)	true
-mission_text_text_vco_sla_gifts_given_25	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 25)	true
-mission_text_text_vco_sla_gifts_given_26	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 26)	true
-mission_text_text_vco_sla_gifts_given_27	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 27)	true
-mission_text_text_vco_sla_gifts_given_28	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 28)	true
-mission_text_text_vco_sla_gifts_given_29	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 29)	true
-mission_text_text_vco_sla_gifts_given_30	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 30)	true
-mission_text_text_vco_sla_gifts_given_31	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 31)	true
-mission_text_text_vco_sla_gifts_given_32	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 32)	true
-mission_text_text_vco_sla_gifts_given_33	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 33)	true
-mission_text_text_vco_sla_gifts_given_34	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 34)	true
-mission_text_text_vco_sla_gifts_given_35	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 35)	true
-mission_text_text_vco_sla_gifts_given_36	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 36)	true
-mission_text_text_vco_sla_gifts_given_37	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 37)	true
-mission_text_text_vco_sla_gifts_given_38	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 38)	true
-mission_text_text_vco_sla_gifts_given_39	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 39)	true
+mission_text_text_vco_sla_gifts_given_1	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 1)	true
+mission_text_text_vco_sla_gifts_given_2	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 2)	true
+mission_text_text_vco_sla_gifts_given_3	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 3)	true
+mission_text_text_vco_sla_gifts_given_4	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 4)	true
+mission_text_text_vco_sla_gifts_given_5	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 5)	true
+mission_text_text_vco_sla_gifts_given_6	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 6)	true
+mission_text_text_vco_sla_gifts_given_7	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 7)	true
+mission_text_text_vco_sla_gifts_given_8	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 8)	true
+mission_text_text_vco_sla_gifts_given_9	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 9)	true
+mission_text_text_vco_sla_gifts_given_10	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 10)	true
+mission_text_text_vco_sla_gifts_given_11	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 11)	true
+mission_text_text_vco_sla_gifts_given_12	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 12)	true
+mission_text_text_vco_sla_gifts_given_13	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 13)	true
+mission_text_text_vco_sla_gifts_given_14	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 14)	true
+mission_text_text_vco_sla_gifts_given_15	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 15)	true
+mission_text_text_vco_sla_gifts_given_16	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 16)	true
+mission_text_text_vco_sla_gifts_given_17	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 17)	true
+mission_text_text_vco_sla_gifts_given_18	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 18)	true
+mission_text_text_vco_sla_gifts_given_19	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 19)	true
+mission_text_text_vco_sla_gifts_given_20	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 20)	true
+mission_text_text_vco_sla_gifts_given_21	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 21)	true
+mission_text_text_vco_sla_gifts_given_22	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 22)	true
+mission_text_text_vco_sla_gifts_given_23	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 23)	true
+mission_text_text_vco_sla_gifts_given_24	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 24)	true
+mission_text_text_vco_sla_gifts_given_25	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 25)	true
+mission_text_text_vco_sla_gifts_given_26	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 26)	true
+mission_text_text_vco_sla_gifts_given_27	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 27)	true
+mission_text_text_vco_sla_gifts_given_28	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 28)	true
+mission_text_text_vco_sla_gifts_given_29	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 29)	true
+mission_text_text_vco_sla_gifts_given_30	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 30)	true
+mission_text_text_vco_sla_gifts_given_31	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 31)	true
+mission_text_text_vco_sla_gifts_given_32	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 32)	true
+mission_text_text_vco_sla_gifts_given_33	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 33)	true
+mission_text_text_vco_sla_gifts_given_34	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 34)	true
+mission_text_text_vco_sla_gifts_given_35	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 35)	true
+mission_text_text_vco_sla_gifts_given_36	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 36)	true
+mission_text_text_vco_sla_gifts_given_37	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 37)	true
+mission_text_text_vco_sla_gifts_given_38	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 38)	true
+mission_text_text_vco_sla_gifts_given_39	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 39)	true
 mission_text_text_vco_sla_gifts_given_completed	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]].	true
 mission_text_text_vco_sla_nka_1_the_great_game	<dummy>Though Slaanesh is presently the least of the four great Ruinous Powers, his brothers secretly fear him, for he feeds on humanity's darkest urges, a source of power that they cannot hope to match. Let the lands of Ulthuan be submerged beneath a writhing, twitching blanket of sin.	true
 mission_text_text_vco_sla_nka_1_the_great_game_roc	<dummy>Though Slaanesh is presently the least of the four great Ruinous Powers, his brothers secretly fear him, for he feeds on humanity's darkest urges, a source of power that they cannot hope to match. Let the lands of the mortal world be submerged beneath a writhing, twitching blanket of sin.	true
 mission_text_text_vco_sla_nka_2_paradise_lost	<dummy>“Come, mortal. Gorge yourself on the blood of your beloved, slain by your own hands. Let your lust and despair mingle into a delicious concotion. Then, and only then, will you know the sweet caress of the Dark Prince.”	true
-mission_text_text_vco_sla_nka_2_paradise_lost_establish_cults	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Current: 0)	true
-mission_text_text_vco_sla_nka_2_paradise_lost_spread_marks	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Current: 0)	true
+mission_text_text_vco_sla_nka_2_paradise_lost_establish_cults	Establish at least 20 [[url:script_link_campaign_chaos_cults]]Chaos Cults[[/url]]. (Attuale: 0)	true
+mission_text_text_vco_sla_nka_2_paradise_lost_spread_marks	Spread at least 40 [[url:script_link_campaign_gifts_of_slaanesh]]Gifts of Slaanesh[[/url]]. (Attuale: 0)	true
 mission_text_text_vco_sla_nka_3_bloodline_aenarion	<dummy>The Arch-Temptor has been thwarted by Aenarion and his hated descendants more times than he would care to admit. The time has come to visit upon them the most exquisite of agonies. Only after they beg for death will their souls be relinquished to the Dark Prince.	true
 mission_text_text_vco_sla_nka_3_wrath_desire_roc_1	<dummy>The Dark Prince visited exquisite agony upon N'Kari for his failure to defeat the Exiled One. His wounded pride can only be salved with the sweet nectar of revenge...	true
 mission_text_text_vco_sla_nka_3_wrath_desire_roc_2	<dummy>Though Ulthuan is presently shrouded from N'Kari's gaze, the amoral beings of the Old World beg for release. Let us indulge them.	true
 mission_text_text_vco_sla_nka_3_wrath_desire_roc_3	Control at least [[url:#]]6[[/url]] of the following [[url:#]]9[[/url]] regions either by [[img:sword_of_khaine]][[/img]]conquest or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
 mission_text_text_vco_the_great_game_completed	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.	true
-mission_text_text_vco_the_great_game_completed_0	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 0)	true
-mission_text_text_vco_the_great_game_completed_1	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 1)	true
-mission_text_text_vco_the_great_game_completed_2	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 2)	true
-mission_text_text_vco_the_great_game_completed_3	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 3)	true
-mission_text_text_vco_the_great_game_completed_4	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 4)	true
-mission_text_text_vco_the_great_game_completed_5	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 5)	true
-mission_text_text_vco_the_great_game_completed_6	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 6)	true
-mission_text_text_vco_the_great_game_completed_7	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 7)	true
-mission_text_text_vco_the_great_game_completed_8	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 8)	true
-mission_text_text_vco_the_great_game_completed_9	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 9)	true
-mission_text_text_vco_the_great_game_completed_10	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 10)	true
-mission_text_text_vco_the_great_game_completed_11	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 11)	true
-mission_text_text_vco_the_great_game_completed_12	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 12)	true
-mission_text_text_vco_the_great_game_completed_13	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 13)	true
-mission_text_text_vco_the_great_game_completed_14	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 14)	true
-mission_text_text_vco_the_great_game_completed_15	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 15)	true
-mission_text_text_vco_the_great_game_completed_16	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 16)	true
-mission_text_text_vco_the_great_game_completed_17	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 17)	true
-mission_text_text_vco_the_great_game_completed_18	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 18)	true
-mission_text_text_vco_the_great_game_completed_19	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 19)	true
-mission_text_text_vco_the_great_game_completed_20	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 20)	true
-mission_text_text_vco_the_great_game_completed_21	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 21)	true
-mission_text_text_vco_the_great_game_completed_22	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 22)	true
-mission_text_text_vco_the_great_game_completed_23	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 23)	true
-mission_text_text_vco_the_great_game_completed_24	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 24)	true
-mission_text_text_vco_the_great_game_completed_25	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 25)	true
-mission_text_text_vco_the_great_game_completed_26	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 26)	true
-mission_text_text_vco_the_great_game_completed_27	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 27)	true
-mission_text_text_vco_the_great_game_completed_28	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 28)	true
-mission_text_text_vco_the_great_game_completed_29	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 29)	true
-mission_text_text_vco_the_great_game_completed_30	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 30)	true
-mission_text_text_vco_the_great_game_completed_31	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 31)	true
-mission_text_text_vco_the_great_game_completed_32	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 32)	true
-mission_text_text_vco_the_great_game_completed_33	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 33)	true
-mission_text_text_vco_the_great_game_completed_34	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 34)	true
-mission_text_text_vco_the_great_game_completed_35	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 35)	true
-mission_text_text_vco_the_great_game_completed_36	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 36)	true
-mission_text_text_vco_the_great_game_completed_37	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 37)	true
-mission_text_text_vco_the_great_game_completed_38	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 38)	true
-mission_text_text_vco_the_great_game_completed_39	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 39)	true
-mission_text_text_vco_the_great_game_completed_40	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 40)	true
-mission_text_text_vco_the_great_game_completed_41	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 41)	true
-mission_text_text_vco_the_great_game_completed_42	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 42)	true
-mission_text_text_vco_the_great_game_completed_43	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 43)	true
-mission_text_text_vco_the_great_game_completed_44	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 44)	true
-mission_text_text_vco_the_great_game_completed_45	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 45)	true
-mission_text_text_vco_the_great_game_completed_46	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 46)	true
-mission_text_text_vco_the_great_game_completed_47	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 47)	true
-mission_text_text_vco_the_great_game_completed_48	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 48)	true
-mission_text_text_vco_the_great_game_completed_49	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 49)	true
-mission_text_text_vco_the_great_game_completed_50	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 50)	true
-mission_text_text_vco_the_great_game_completed_51	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 51)	true
-mission_text_text_vco_the_great_game_completed_52	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 52)	true
-mission_text_text_vco_the_great_game_completed_53	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 53)	true
-mission_text_text_vco_the_great_game_completed_54	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 54)	true
-mission_text_text_vco_the_great_game_completed_55	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 55)	true
-mission_text_text_vco_the_great_game_completed_56	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 56)	true
-mission_text_text_vco_the_great_game_completed_57	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 57)	true
-mission_text_text_vco_the_great_game_completed_58	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 58)	true
-mission_text_text_vco_the_great_game_completed_59	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 59)	true
-mission_text_text_vco_the_great_game_completed_60	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 60)	true
-mission_text_text_vco_the_great_game_completed_61	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 61)	true
-mission_text_text_vco_the_great_game_completed_62	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 62)	true
-mission_text_text_vco_the_great_game_completed_63	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 63)	true
-mission_text_text_vco_the_great_game_completed_64	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 64)	true
-mission_text_text_vco_the_great_game_completed_65	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 65)	true
-mission_text_text_vco_the_great_game_completed_66	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 66)	true
-mission_text_text_vco_the_great_game_completed_67	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 67)	true
-mission_text_text_vco_the_great_game_completed_68	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 68)	true
-mission_text_text_vco_the_great_game_completed_69	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 69)	true
-mission_text_text_vco_the_great_game_completed_70	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 70)	true
-mission_text_text_vco_the_great_game_completed_71	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 71)	true
-mission_text_text_vco_the_great_game_completed_72	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 72)	true
-mission_text_text_vco_the_great_game_completed_73	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 73)	true
-mission_text_text_vco_the_great_game_completed_74	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 74)	true
-mission_text_text_vco_the_great_game_completed_75	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 75)	true
-mission_text_text_vco_the_great_game_completed_76	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 76)	true
-mission_text_text_vco_the_great_game_completed_77	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 77)	true
-mission_text_text_vco_the_great_game_completed_78	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 78)	true
-mission_text_text_vco_the_great_game_completed_79	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 79)	true
-mission_text_text_vco_the_great_game_completed_80	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 80)	true
-mission_text_text_vco_the_great_game_completed_81	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 81)	true
-mission_text_text_vco_the_great_game_completed_82	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 82)	true
-mission_text_text_vco_the_great_game_completed_83	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 83)	true
-mission_text_text_vco_the_great_game_completed_84	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 84)	true
-mission_text_text_vco_the_great_game_completed_85	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 85)	true
-mission_text_text_vco_the_great_game_completed_86	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 86)	true
-mission_text_text_vco_the_great_game_completed_87	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 87)	true
-mission_text_text_vco_the_great_game_completed_88	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 88)	true
-mission_text_text_vco_the_great_game_completed_89	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 89)	true
-mission_text_text_vco_the_great_game_completed_90	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 90)	true
-mission_text_text_vco_the_great_game_completed_91	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 91)	true
-mission_text_text_vco_the_great_game_completed_92	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 92)	true
-mission_text_text_vco_the_great_game_completed_93	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 93)	true
-mission_text_text_vco_the_great_game_completed_94	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 94)	true
-mission_text_text_vco_the_great_game_completed_95	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 95)	true
-mission_text_text_vco_the_great_game_completed_96	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 96)	true
-mission_text_text_vco_the_great_game_completed_97	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 97)	true
-mission_text_text_vco_the_great_game_completed_98	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 98)	true
-mission_text_text_vco_the_great_game_completed_99	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Current: 99)	true
+mission_text_text_vco_the_great_game_completed_0	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 0)	true
+mission_text_text_vco_the_great_game_completed_1	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 1)	true
+mission_text_text_vco_the_great_game_completed_2	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 2)	true
+mission_text_text_vco_the_great_game_completed_3	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 3)	true
+mission_text_text_vco_the_great_game_completed_4	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 4)	true
+mission_text_text_vco_the_great_game_completed_5	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 5)	true
+mission_text_text_vco_the_great_game_completed_6	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 6)	true
+mission_text_text_vco_the_great_game_completed_7	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 7)	true
+mission_text_text_vco_the_great_game_completed_8	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 8)	true
+mission_text_text_vco_the_great_game_completed_9	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 9)	true
+mission_text_text_vco_the_great_game_completed_10	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 10)	true
+mission_text_text_vco_the_great_game_completed_11	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 11)	true
+mission_text_text_vco_the_great_game_completed_12	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 12)	true
+mission_text_text_vco_the_great_game_completed_13	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 13)	true
+mission_text_text_vco_the_great_game_completed_14	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 14)	true
+mission_text_text_vco_the_great_game_completed_15	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 15)	true
+mission_text_text_vco_the_great_game_completed_16	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 16)	true
+mission_text_text_vco_the_great_game_completed_17	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 17)	true
+mission_text_text_vco_the_great_game_completed_18	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 18)	true
+mission_text_text_vco_the_great_game_completed_19	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 19)	true
+mission_text_text_vco_the_great_game_completed_20	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 20)	true
+mission_text_text_vco_the_great_game_completed_21	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 21)	true
+mission_text_text_vco_the_great_game_completed_22	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 22)	true
+mission_text_text_vco_the_great_game_completed_23	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 23)	true
+mission_text_text_vco_the_great_game_completed_24	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 24)	true
+mission_text_text_vco_the_great_game_completed_25	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 25)	true
+mission_text_text_vco_the_great_game_completed_26	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 26)	true
+mission_text_text_vco_the_great_game_completed_27	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 27)	true
+mission_text_text_vco_the_great_game_completed_28	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 28)	true
+mission_text_text_vco_the_great_game_completed_29	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 29)	true
+mission_text_text_vco_the_great_game_completed_30	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 30)	true
+mission_text_text_vco_the_great_game_completed_31	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 31)	true
+mission_text_text_vco_the_great_game_completed_32	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 32)	true
+mission_text_text_vco_the_great_game_completed_33	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 33)	true
+mission_text_text_vco_the_great_game_completed_34	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 34)	true
+mission_text_text_vco_the_great_game_completed_35	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 35)	true
+mission_text_text_vco_the_great_game_completed_36	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 36)	true
+mission_text_text_vco_the_great_game_completed_37	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 37)	true
+mission_text_text_vco_the_great_game_completed_38	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 38)	true
+mission_text_text_vco_the_great_game_completed_39	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 39)	true
+mission_text_text_vco_the_great_game_completed_40	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 40)	true
+mission_text_text_vco_the_great_game_completed_41	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 41)	true
+mission_text_text_vco_the_great_game_completed_42	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 42)	true
+mission_text_text_vco_the_great_game_completed_43	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 43)	true
+mission_text_text_vco_the_great_game_completed_44	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 44)	true
+mission_text_text_vco_the_great_game_completed_45	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 45)	true
+mission_text_text_vco_the_great_game_completed_46	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 46)	true
+mission_text_text_vco_the_great_game_completed_47	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 47)	true
+mission_text_text_vco_the_great_game_completed_48	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 48)	true
+mission_text_text_vco_the_great_game_completed_49	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 49)	true
+mission_text_text_vco_the_great_game_completed_50	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 50)	true
+mission_text_text_vco_the_great_game_completed_51	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 51)	true
+mission_text_text_vco_the_great_game_completed_52	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 52)	true
+mission_text_text_vco_the_great_game_completed_53	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 53)	true
+mission_text_text_vco_the_great_game_completed_54	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 54)	true
+mission_text_text_vco_the_great_game_completed_55	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 55)	true
+mission_text_text_vco_the_great_game_completed_56	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 56)	true
+mission_text_text_vco_the_great_game_completed_57	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 57)	true
+mission_text_text_vco_the_great_game_completed_58	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 58)	true
+mission_text_text_vco_the_great_game_completed_59	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 59)	true
+mission_text_text_vco_the_great_game_completed_60	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 60)	true
+mission_text_text_vco_the_great_game_completed_61	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 61)	true
+mission_text_text_vco_the_great_game_completed_62	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 62)	true
+mission_text_text_vco_the_great_game_completed_63	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 63)	true
+mission_text_text_vco_the_great_game_completed_64	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 64)	true
+mission_text_text_vco_the_great_game_completed_65	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 65)	true
+mission_text_text_vco_the_great_game_completed_66	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 66)	true
+mission_text_text_vco_the_great_game_completed_67	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 67)	true
+mission_text_text_vco_the_great_game_completed_68	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 68)	true
+mission_text_text_vco_the_great_game_completed_69	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 69)	true
+mission_text_text_vco_the_great_game_completed_70	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 70)	true
+mission_text_text_vco_the_great_game_completed_71	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 71)	true
+mission_text_text_vco_the_great_game_completed_72	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 72)	true
+mission_text_text_vco_the_great_game_completed_73	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 73)	true
+mission_text_text_vco_the_great_game_completed_74	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 74)	true
+mission_text_text_vco_the_great_game_completed_75	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 75)	true
+mission_text_text_vco_the_great_game_completed_76	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 76)	true
+mission_text_text_vco_the_great_game_completed_77	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 77)	true
+mission_text_text_vco_the_great_game_completed_78	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 78)	true
+mission_text_text_vco_the_great_game_completed_79	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 79)	true
+mission_text_text_vco_the_great_game_completed_80	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 80)	true
+mission_text_text_vco_the_great_game_completed_81	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 81)	true
+mission_text_text_vco_the_great_game_completed_82	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 82)	true
+mission_text_text_vco_the_great_game_completed_83	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 83)	true
+mission_text_text_vco_the_great_game_completed_84	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 84)	true
+mission_text_text_vco_the_great_game_completed_85	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 85)	true
+mission_text_text_vco_the_great_game_completed_86	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 86)	true
+mission_text_text_vco_the_great_game_completed_87	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 87)	true
+mission_text_text_vco_the_great_game_completed_88	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 88)	true
+mission_text_text_vco_the_great_game_completed_89	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 89)	true
+mission_text_text_vco_the_great_game_completed_90	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 90)	true
+mission_text_text_vco_the_great_game_completed_91	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 91)	true
+mission_text_text_vco_the_great_game_completed_92	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 92)	true
+mission_text_text_vco_the_great_game_completed_93	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 93)	true
+mission_text_text_vco_the_great_game_completed_94	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 94)	true
+mission_text_text_vco_the_great_game_completed_95	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 95)	true
+mission_text_text_vco_the_great_game_completed_96	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 96)	true
+mission_text_text_vco_the_great_game_completed_97	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 97)	true
+mission_text_text_vco_the_great_game_completed_98	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 98)	true
+mission_text_text_vco_the_great_game_completed_99	Ascend in [[url:#]]The Great Game[[/url]] by spreading your corruption over 50 regions.\\n(Attuale: 99)	true
 mission_text_text_vco_tmb_ark_1_thy_kingdom_come	<dummy>Arkhan has feigned obedience to Settra for long enough. The time has come to march out and retake the ancient lands of his master, the Great Necromancer Nagash.	true
 mission_text_text_vco_tmb_ark_2_born_to_serve	<dummy>The vampires did not drink from the Elixir of Life as Arkhan did, but from a lesser, corrupted version that cursed them with unlife. They are forever bound to the will of Nagash, and as his foremost servant, Arkhan can command them just as easily.	true
 mission_text_text_vco_tmb_ark_2_born_to_serve_region_overwrite	Control at least 4 of the following regions either by direct ownership or through [[img:icon_vassal]][[/img]]vassals and [[img:icon_military_alliance]][[/img]]military allies:	true
@@ -671,7 +671,7 @@ mission_text_text_vco_chs_val_1_blood_snow_roc	<dummy>The Gorequeen's legions su
 mission_text_text_vco_chs_val_2_bringer_glory_roc	<dummy>The Legion of the Gorequeen rampages across the Dark Lands, fighting with a blood-crazed fervour rarely seen amongst their ilk, for they alone know the Blood God's gaze is upon them. Valkia circles above on wings of red ruin, seeking out those who are worthy to fight on in the Realms of Chaos after their death.	true
 mission_text_text_vco_chs_val_3_shup_up_daemon_roc	<dummy>Locephax's incessant gibbering has reached intolerable levels of late. Seeking to humble the ever-prideful daemon, Valkia journeys into the Chaos Wastes, seeking out the Dark Prince's greatest champion. When Locephax witnesses N'Kari's pitiful death, perhaps he will, at last, be silent.	true
 mission_text_text_vco_hef_imr_1_eastern_ambitions	<dummy>[[col:ancillary_uncommon]]Bruwor[[/col]], the [[col:ancillary_uncommon]]Protector of Life[[/col]], urges Imrik to save the [[col:fe_white]]Haunted Forest[[/col]] from the foul agents of corruption that have poisoned its roots. He assures the Dragon Prince that such a gesture will surely win him favour with the Elves of Athel Loren. Though Imrik is not particularly enamoured with his wayward kin of the forests, he nevertheless agrees, as Minaithnir has been restless of late and longs for battle.	true
-mission_text_text_vco_hef_imr_1_eastern_ambitions_1	<dummy>A beleaguered caravan from the east arrives at the Fortress of Vorag. The Caravan Master beseeches the Knights of Caledor for aid, for the [[col:yellow]]Ivory Road[[/col]] has grown untenably treacherous. Seeking an opportunity to curry favour with Cathay's mysterious draconic rulers, Imrik agrees to the request. For good measure, he assigns an envoy to travel east and entreat with the ruler of the Celestial Riverlands, the [[col:green]]Jade Dragon[[/col]]: Prince Yuan Bo.	true
+mission_text_text_vco_hef_imr_1_eastern_ambitions_1	<dummy>A beleaguered caravan from the east arrives at the Fortress of Vorag. The Caravan Master beseeches the Knights of Caledor for aid, for the [[col:yellow]]Strada d'Avorio[[/col]] has grown untenably treacherous. Seeking an opportunity to curry favour with Cathay's mysterious draconic rulers, Imrik agrees to the request. For good measure, he assigns an envoy to travel east and entreat with the ruler of the Celestial Riverlands, the [[col:green]]Jade Dragon[[/col]]: Prince Yuan Bo.	true
 mission_text_text_vco_hef_imr_2_vengeance_dark_lands	<dummy>[[col:ancillary_rare]]Lamoureux[[/col]] returns from the west with dire news. The sacred [[col:fe_white]]Grave of the Dragons[[/col]] has been desecreated by a series of profane rituals enacted by the hateful [[col:dark_r]]Chaos Dwarfs[[/col]]. The she-dragon howls to the moon, a keening cry that sends chills down Imrik's spine. Wasting no time, the Knights of Caledor march north for retribution.	true
 mission_text_text_vco_hef_imr_2_vengeance_dark_lands_1	<dummy>[[col:ancillary_unique]]Shackolot[[/col]] is a rarity among his kind, a sentient Black Dragon, taken from Naggaroth when he was just an egg. He languished in the dungeons of the [[col:subtitle_daemon_prince]]Silver Pinnacle[[/col]] for years before making his escape. With Imrik's aid, he wishes to return and enact vengeance upon his vampiric captors.	true
 mission_text_text_vco_hef_imr_3_gold_glory	<dummy>[[col:fe_white]]Caledor[[/col]] is a silent realm. It has been centuries since the skies rang to the cries of dragons and the roar of their fiery breaths. One by one, they drifted into slumber, becoming ever more difficult to rouse. Yet [[col:subtitle_ursun]]Ymwrath the Eternal[[/col]] means to see those days returned. He urges Imrik to return to [[col:fe_white]]Caledor[[/col]] so that he can awaken his slumbering kin.	true
